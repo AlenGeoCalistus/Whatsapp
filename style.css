@@ -1,0 +1,32 @@
+.navbar{
+
+    background-color:#128c7e ;
+    
+}
+.fa-brands{
+    color: #1CB39B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fa-regular{
+    color: #1CB39B;
+    font-family: Arial, Helvetica, sans-serif;  
+
+}
+.fas{
+    color: #1CB39B;
+}
+.para1{
+    font-size: .85rem;
+
+}
+.para2{
+    font-size: .75rem;
+ }
+ .left-heading{
+     font-weight: 300;
+ }
+ i:hover{
+     text-decoration: underline;
+     cursor: pointer;
+
+ }
